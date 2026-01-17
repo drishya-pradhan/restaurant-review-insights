@@ -12,9 +12,9 @@ Restaurants get lots of reviews, but they are messy and time-consuming to read o
 
 ## Solution: 
 This project turns raw reviews into actionable and structured insights to help the restaurant understand things like: 
-- what customers like the most 
-- what to issues are causing negative views 
-- how the ratings and complaints change over time 
+- What customers like the most 
+- What to issues are causing negative views 
+- How the ratings and complaints change over time 
 This dashboard provides a clear and interactive overview of the restaurant reviews so that decisions can be made faster to improve the restaurant quality
 
 ---
@@ -33,15 +33,15 @@ This dashboard provides a clear and interactive overview of the restaurant revie
 ## Tech Stack 
 - Python 
 - Pandas/NumPy : data processing 
-- streamlit: dashboard ui
+- Streamlit: dashboard ui
 - Vader Sentiment: lexicon based sentiment analysis 
-- git/github: version control 
+- Git/github: version control 
 
 --- 
 
 ## Data
 
-The project currently uses a **sample dataset (Option B)** to validate the pipeline before integrating real review sources.
+The project currently uses a **sample dataset** to validate the pipeline before integrating real review sources.
 
 ### Required CSV schema
 
