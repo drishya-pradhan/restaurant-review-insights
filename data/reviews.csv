@@ -1,0 +1,25 @@
+review_id,date,rating,text
+1,11/1/2025,5,Amazing momo and super friendly staff!
+2,11/2/2025,2,Food tasted good but service took too long.
+3,11/3/2025,4,Great ambience. The wait was only a few minutes.
+4,11/4/2025,1,Overpriced for what you get. Not worth it.
+5,11/5/2025,3,"Food was okay, but the bathroom was dirty."
+6,11/6/2025,5,Delicious and quick service—will come again!
+7,11/7/2025,2,Wrong order and staff didn’t fix it.
+8,11/8/2025,4,Portions were big and the taste was great.
+9,11/9/2025,1,Waited forever. Cold food. Terrible experience.
+10,11/10/2025,5,The place is clean and the vibe is amazing.
+11,13/01/2025,3,"Invalid date format (day/month confusion)"
+12,11/31/2025,4,"Invalid date (November has 30 days)"
+13,11/15/2025,6,"Invalid rating above 5"
+14,11/16/2025,0,"Invalid rating below 1"
+15,11/17/2025,,"Missing rating"
+16,11/18/2025,3,
+17,11/19/2025,4.5,"Decimal rating (policy decision)"
+18,11/20/2025,"five","Non-numeric rating"
+19,11/21/2025,2,
+20,,3,"Missing date entirely"
+21,11/22/2025,3,"     Excessive      whitespace     "
+22,11/23/2025,4,"GOOD FOOD!!!"
+23,11/24/2025,3,"soooo goooood"
+24,11/25/2025,3,"Food was good but not great service"
